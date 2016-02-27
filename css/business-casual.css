@@ -109,6 +109,15 @@ hr {
 #donationButton{
 	text-align:center;
 }
+.info{
+	margin-top:15px;
+	padding:20px;
+	display: block;
+}
+.infAbout{
+	padding:20px;
+	display: block;
+}
 
 footer {
 	bottom:0px;
